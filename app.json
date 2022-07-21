@@ -8,7 +8,7 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/PredatorHackerzZ/MessageSearchBot",
+    "repository": "https://github.com/KGN-BOTS/MessageSearchBot",
     "website": "https://telegram.dog/TheTeleRoid",
     "success_url": "https://t.me/PHListBot",
     "env": {
